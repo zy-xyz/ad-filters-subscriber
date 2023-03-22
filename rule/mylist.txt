@@ -33,9 +33,6 @@
 
 !-----------------待定-----------------
 
-#小米浏览器热点资讯
-||hot.browser.miui.com^$important
-
 #未知来源 广告/日志
 ||toblog.ctobsnssdk.com^$important
 
