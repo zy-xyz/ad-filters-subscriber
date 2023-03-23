@@ -50,6 +50,9 @@ public abstract class AbstractRuleHandler {
                     continue;
                 }
                 filter.add(content);
+                if (content.length() < 5) {
+                    log.warn("规则<{}> 长度过短 <{}> => <{}>", ruleUrl, line, content);
+                }
 
                 for (RuleType ruleType : RuleType.values()) {
                     if (Util.validRule(content, ruleType)) {
