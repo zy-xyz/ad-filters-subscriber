@@ -21,7 +21,7 @@ public class Constant {
      * 去除首尾基础修饰符号 的正则，方便对规则进行分类
      * 包含：@@、||、@@||、/ 开头，$important、/ 结尾
      */
-    public static final String BASIC_MODIFY_REGEX = "^@@\\|\\||^\\|\\||^@@|(\\^)?\\$important$|\\s#[^#]*$";
+    public static final String BASIC_MODIFY_REGEX = "^@@\\|\\||^\\|\\||^@@|(\\^)?\\$important$|\\s#[^#]*$|\\^$";
 
     /**
      * 注释符号

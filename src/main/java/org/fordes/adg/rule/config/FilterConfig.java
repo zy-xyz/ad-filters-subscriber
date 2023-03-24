@@ -17,6 +17,11 @@ public class FilterConfig {
     private long expectedQuantity = 1000000;
 
     private double faultTolerance = 0.0001;
+
+    private long warnLimit = 8;
+
+    private long batchSize = 2000;
+
 }
 
     
