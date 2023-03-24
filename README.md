@@ -112,7 +112,6 @@ mvn spring-boot:run
     <li><a href="https://someonewhocares.org/hosts/zero/hosts">Dan Pollock's List</a></li>
     <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt">AdGuard DNS filter</a></li>
     <li><a href="https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext">Peter Lowe's List</a></li>
-    <li><a href="https://abp.oisd.nl/basic/">OISD Blocklist Basic</a></li>
     <li><a href="https://adaway.org/hosts.txt">AdAway Default Blocklist</a></li>
     <li><a href="https://github.com/crazy-max/WindowsSpyBlocker">WindowsSpyBlocker</a></li>
     <li><a href="https://github.com/jdlingyu/ad-wars">ad-wars</a></li>
