@@ -97,6 +97,10 @@ application:
         path: 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt'  
       - name: 'halflife-list.txt' 
         path: 'https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt'  
+      - name: '晴雅 adg.txt' 
+        path: 'http://rssv.cn/adguard/api.php?type=dns'  
+      
+
       
     #本地规则请将文件放置到项目路径rule目录中
     local:
