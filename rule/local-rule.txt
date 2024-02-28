@@ -5,6 +5,34 @@
 @@||api.xmpush.xiaomi.com^$important
 @@||sl-tk.oray.com^$important
 
+#淘宝热更新
+127.0.0.1 acs.m.taobao.com
+127.0.0.1 adashx.ut.cainiao.com
+127.0.0.1 adiu.amap.com
+127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
+127.0.0.1 api-access.pangolin-sdk-toutiao.com
+127.0.0.1 api-access.pangolin-sdk-toutiao1.com
+127.0.0.1 api.live.bilibili.com
+127.0.0.1 app.wiki.gg
+127.0.0.1 appdownload.alicdn.com
+127.0.0.1 download.alicdn.com
+127.0.0.1 gromore.pangolin-sdk-toutiao.com
+127.0.0.1 img.meituan.net
+127.0.0.1 log-api.pangolin-sdk-toutiao-b.com
+127.0.0.1 log-api.pangolin-sdk-toutiao.com
+127.0.0.1 orange-dc.alibaba.com
+127.0.0.1 ossgw.alicdn.com
+127.0.0.1 p0.meituan.com
+127.0.0.1 p0.meituan.net
+127.0.0.1 p1.meituan.com
+127.0.0.1 p1.meituan.net
+127.0.0.1 p26-be-pack-sign.pglstatp-toutiao.com
+127.0.0.1 p6-be-pack-sign.pglstatp-toutiao.com
+127.0.0.1 p9-be-pack-sign.pglstatp-toutiao.com
+127.0.0.1 rtb.voiceads.cn
+127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
+127.0.0.1 utoken.umeng.com 
+
 #喜马拉雅的广告
 127.0.0.1 mmobile.ximalaya.com
 127.0.0.1 mobile.ximalaya.com
