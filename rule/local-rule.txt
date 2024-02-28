@@ -1,5 +1,32 @@
+
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
 @@||pdc.micloud.xiaomi.net^$important
 @@||cn.register.xmpush.xiaomi.com^$important
 @@||api.xmpush.xiaomi.com^$important
 @@||sl-tk.oray.com^$important
+
+#喜马拉雅的广告
+127.0.0.1 mmobile.ximalaya.com
+127.0.0.1 mobile.ximalaya.com
+127.0.0.1 imagev2.xmcdn.com
+127.0.0.1 s1.xmcdn.com
+127.0.0.1 adse.ximalaya.com
+127.0.0.1 ossgw.alicdn.com
+
+#MIUI广告屏蔽
+127.0.0.1 rom.pt.miui.srv
+127.0.0.1 advsec.miui.com
+127.0.0.1 analytics.miui.com
+127.0.0.1 analytics.db.miui.com
+127.0.0.1 api.joyose.miui.com
+127.0.0.1 adv.sec.miui.com
+127.0.0.1 gamebox.sec.miui.com
+
+#小米浏览器更新弹窗，但是直接换用chrome他不香吗？
+127.0.0.1 api.developer.xiaomi.com
+127.0.0.1 ota.miuipro.org
+127.0.0.1 ota.miuipro.ru
+127.0.0.1 update.miui.ms
+127.0.0.1 www.miui.ms
+127.0.0.1 www.miuipro.info
+127.0.0.1 miuipro.info
