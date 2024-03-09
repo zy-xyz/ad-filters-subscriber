@@ -1,4 +1,4 @@
-
+@@||pan.quark.cn^$important
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
 @@||pdc.micloud.xiaomi.net^$important
 @@||cn.register.xmpush.xiaomi.com^$important
