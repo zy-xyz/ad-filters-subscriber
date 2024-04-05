@@ -4,6 +4,7 @@
 @@||cn.register.xmpush.xiaomi.com^$important
 @@||api.xmpush.xiaomi.com^$important
 @@||sl-tk.oray.com^$important
+@@||uop.quark.cn^$important
 
 #淘宝热更新
 127.0.0.1 acs.m.taobao.com
