@@ -61,8 +61,6 @@ application:
         path: 'https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt' 
       - name: 'adblock_privacy.txt' 
         path: 'https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt' 
-      - name: '冷莫-GitHub.txt' 
-        path: 'https://file-git.trli.club/Domains/AccelerateHosts/github-hosts.txt' 
       - name: '乘风.txt' 
         path: 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt' 
       - name: '乘风-视频.txt' 
