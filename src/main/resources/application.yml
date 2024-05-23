@@ -97,6 +97,8 @@ application:
         path: 'https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt'  
       - name: '晴雅 adg.txt' 
         path: 'http://rssv.cn/adguard/api.php?type=dns'  
+      - name: 'bilibili.txt' 
+        path: 'https://github.com/Potterli20/file/releases/download/github-hosts/bilibili-hosts.txt'         
       
 
       
